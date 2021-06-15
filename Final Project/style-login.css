@@ -1,0 +1,58 @@
+body {
+  background:  linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%),url("img/main-bg.jpg");
+}
+
+
+/* navbar */
+#mainNav{
+  background-color: rgb(243, 147, 3);
+  font-family: 'Anton', sans-serif;
+}
+
+/* 버튼 */
+.btn-primary {
+  color: #fff;
+  background-color: #f4623a;
+  border-color: #f4623a;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #f1b5a5;
+    border-color: #f1b5a5;
+  }
+
+  /* loin.html */
+.login-form {
+  background-repeat: repeat-y;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-position: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.card {
+  width: 70%;
+  background-color: #ff880023;
+  color: white;
+}
+
+.card-header {
+  background-color: #f4623a;
+}
+
+.id {
+  margin: 10px;
+}
+
+.pw {
+  margin: 10px;
+}
+
+
+
+/* Result.html */
+.progress {
+  margin: 100px;
+  padding: 100px;
+}
